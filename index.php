@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Spoorthi V
+<div id="center-set"> - By Spoorthi Veeresh
 <div id="signup">
 <div id="signup-st">
 <div align="center">
